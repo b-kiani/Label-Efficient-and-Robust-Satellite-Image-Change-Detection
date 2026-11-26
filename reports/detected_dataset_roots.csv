@@ -1,0 +1,30 @@
+dataset,path,folder_name,group,task,depth
+CDD,D:\Datasets\Satillate\Building change detection dataset_add,Building change detection dataset_add,general_seasonal_change,binary,4
+CDD,D:\Datasets\Satillate\Building change detection dataset_add\1. The two-period image data,1. The two-period image data,general_seasonal_change,binary,5
+CDD,D:\Datasets\Satillate\Building change detection dataset_add\2. The shape file of the images,2. The shape file of the images,general_seasonal_change,binary,5
+DSIFN-CD,D:\Datasets\Satillate\DSIFN Train Test,DSIFN Train Test,general_seasonal_change,binary,4
+DSIFN-CD,D:\Datasets\Satillate\DSIFN Train Test\test,test,general_seasonal_change,binary,5
+DSIFN-CD,D:\Datasets\Satillate\DSIFN Train Test\train,train,general_seasonal_change,binary,5
+HRSCD,D:\Datasets\Satillate\HRSCD,HRSCD,semantic_change,semantic,4
+HRSCD,D:\Datasets\Satillate\HRSCD\images_2012,images_2012,semantic_change,semantic,5
+HRSCD,D:\Datasets\Satillate\HRSCD\labels_change,labels_change,semantic_change,semantic,5
+HRSCD,D:\Datasets\Satillate\HRSCD\labels_land_cover_2006,labels_land_cover_2006,semantic_change,semantic,5
+HRSCD,D:\Datasets\Satillate\HRSCD\labels_land_cover_2012,labels_land_cover_2012,semantic_change,semantic,5
+LEVIR-CD,D:\Datasets\Satillate\LEVIR CD,LEVIR CD,binary_building_change,binary,4
+LEVIR-CD,D:\Datasets\Satillate\LEVIR CD\test,test,binary_building_change,binary,5
+LEVIR-CD,D:\Datasets\Satillate\LEVIR CD\train,train,binary_building_change,binary,5
+LEVIR-CD,D:\Datasets\Satillate\LEVIR CD\val,val,binary_building_change,binary,5
+S2Looking,D:\Datasets\Satillate\S2Looking,S2Looking,viewpoint_robustness,binary,4
+S2Looking,D:\Datasets\Satillate\S2Looking\test,test,viewpoint_robustness,binary,5
+S2Looking,D:\Datasets\Satillate\S2Looking\train,train,viewpoint_robustness,binary,5
+S2Looking,D:\Datasets\Satillate\S2Looking\val,val,viewpoint_robustness,binary,5
+SECOND,D:\Datasets\Satillate\SECOND,SECOND,semantic_change,semantic,4
+SECOND,D:\Datasets\Satillate\second_dataset,second_dataset,semantic_change,semantic,4
+SECOND,D:\Datasets\Satillate\SECOND\test,test,semantic_change,semantic,5
+SECOND,D:\Datasets\Satillate\SECOND\train,train,semantic_change,semantic,5
+SECOND,D:\Datasets\Satillate\second_dataset\__MACOSX,__MACOSX,semantic_change,semantic,5
+SECOND,D:\Datasets\Satillate\second_dataset\test,test,semantic_change,semantic,5
+SECOND,D:\Datasets\Satillate\second_dataset\train,train,semantic_change,semantic,5
+xView2,D:\Datasets\Satillate\xView2,xView2,disaster_change,disaster,4
+xView2,D:\Datasets\Satillate\xView2\test,test,disaster_change,disaster,5
+xView2,D:\Datasets\Satillate\xView2\train,train,disaster_change,disaster,5
