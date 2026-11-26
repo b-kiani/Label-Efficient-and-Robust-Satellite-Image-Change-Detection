@@ -1,0 +1,8 @@
+name,applied_to,parameter
+brightness_plus,T2 only,"I2' = clip(1.25*I2 + 10, 0, 255)"
+brightness_minus,T2 only,"I2' = clip(0.70*I2, 0, 255)"
+contrast_plus,T2 only,"I2' = clip((I2 - mean)*1.40 + mean, 0, 255)"
+gaussian_noise,T2 only,Gaussian noise sigma = 12 on 0-255 scale
+blur,T2 only,Gaussian blur kernel 5x5
+misregistration,T2 only,translation +4 px in x and +4 px in y
+shadow,T2 only,"central rectangular darkening, multiplier 0.55"
